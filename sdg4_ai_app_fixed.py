@@ -1306,8 +1306,8 @@ st.markdown("""
     <p><strong>Bridging Education Data Gaps with Advanced Machine Learning</strong></p>
     <p>Empowering education stakeholders with accessible AI tools for sustainable development</p>
     <br>
-    <p><em>Developed for quality education monitoring and policy optimization</em></p>
-    <p>Version 2.0 Enhanced (Fixed) | © 2024 SDG AI Solutions</p>
+    <p><em>Developed for quality education monitoring and policy optimization by Travor Mubaya</em></p>
+    <p>Version 2.0 Enhanced (Travor) | © 2024 SDG AI Solutions</p>
 </div>
 """, unsafe_allow_html=True)
 

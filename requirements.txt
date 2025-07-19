@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+# wordcloud==1.8.2
+fpdf
+nltk
+textblob
+lightgbm
+xgboost
+prophet
+shap
+openpyxl
